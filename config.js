@@ -2,7 +2,7 @@
 
 
 global.owner = [
-  "62....", //should start with country code
+  "+919317171638", //should start with country code
   ""  //second number if available
 ]
 
